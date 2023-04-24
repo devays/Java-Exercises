@@ -1,1 +1,1 @@
-Coleção de exercícios em Java, para aprendizado.
+🌟 Coleção de exercícios em Java, para aprendizado. 🌟
